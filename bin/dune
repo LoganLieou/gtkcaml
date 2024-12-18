@@ -1,0 +1,7 @@
+(executable
+ (public_name mini_gtk)
+ (name main)
+ (foreign_stubs
+   (language c)
+   (names mylib))
+ (libraries mini_gtk))
