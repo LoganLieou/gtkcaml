@@ -1,2 +1,4 @@
-(test
- (name test_mini_gtk))
+(library
+ (name mini_gtk_test)
+ (inline_tests)
+ (preprocess (pps ppx_inline_test)))
