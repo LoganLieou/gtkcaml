@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/mini_gtk/META"
-  "_build/install/default/lib/mini_gtk/dune-package"
-  "_build/install/default/lib/mini_gtk/opam"
-]
-bin: [
-  "_build/install/default/bin/mini_gtk"
-]
